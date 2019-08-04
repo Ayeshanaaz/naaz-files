@@ -1,0 +1,15 @@
+
+set M2_HOME=---;
+PATH=%PATH%=---;
+mvn -version
+cd Desktop
+cd testmaven
+mkdir ---
+dir
+mvn archetype:generate//to know how projects created//command to scan maven depository.
+
+-------------------
+mvn compile
+set JAVA_HOME=""
+mvn compile
+
